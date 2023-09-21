@@ -1,0 +1,1 @@
+print('Hi Sokhin Dmytro') #виводить текст
